@@ -1,3 +1,16 @@
 {
-  "streams": []
+  "stream": [
+    {
+      "title": "Stream number 3 ",
+      "description": "This was made by me",
+      "userId": "117039979677052260305",
+      "id": 3
+    },
+    {
+      "title": "Test22",
+      "description": "asdfasdasdasd",
+      "userId": "117039979677052260305",
+      "id": 4
+    }
+  ]
 }
